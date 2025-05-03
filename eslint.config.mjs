@@ -11,6 +11,16 @@ const compat = new FlatCompat({
 
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
+  "plugin:prettier/recommended", // Integrate Prettier
 ];
 
-export default eslintConfig;
+const rules = {
+  "no-unused-vars": "warn", // Warn on unused variables
+  "react/react-in-jsx-scope": "off", // Not needed with Next.js
+  // Add more rules as needed
+};
+
+export default {
+  ...eslintConfig,
+  rules,
+};
