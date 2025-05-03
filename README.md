@@ -1,5 +1,5 @@
 
-```
+
 # 📈 StockBuddy (Frontend)
 
 **StockBuddy** is a stock analysis and prediction platform built with modern web technologies.  
@@ -29,6 +29,15 @@ This repository contains only the **frontend** of the project, developed using *
 ---
 ## 📸 Screenshots
 
+### Homepage
+![Homepage](screenshots/homepage-with-footer.png)
+
+### Stock HomePage
+![Stock Homepage](screenshots/stock/main-page.png)
+
+### Prediction UI
+![Prediction](screenshots/crypto/inside-crypto-3.png)
+![Prediction](screenshots/crypto/inside-crypto-4.png)
 
 ---
 
@@ -36,7 +45,7 @@ This repository contains only the **frontend** of the project, developed using *
 
 To run the project locally on your machine:
 
-```bash
+```
 git clone https://github.com/vishwasgh/StockBuddy.git
 cd StockBuddy
 
@@ -77,7 +86,4 @@ Reach out on [LinkedIn](https://linkedin.com/in/vishwasthemore) <!-- Replace wit
 ---
 
 
-```
 
-
-```
