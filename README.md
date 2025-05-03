@@ -30,14 +30,15 @@ This repository contains only the **frontend** of the project, developed using *
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage-with-footer.png)
+![Homepage](screenshots/homepage%20with%20footer.png)
 
 ### Stock HomePage
-![Stock Homepage](screenshots/stock/main-page.png)
+![Stock Homepage](screenshots/stock/main%20page.png)
 
 ### Prediction UI
-![Prediction](screenshots/crypto/inside-crypto-3.png)
-![Prediction](screenshots/crypto/inside-crypto-4.png)
+![Prediction](screenshots/crypto/inside%20crypto%203.png)
+![Prediction](screenshots/crypto/inside%20crypto%204.png)
+
 
 ---
 
